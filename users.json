@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Harshith",
+      "email": "Harshith@gmail.com",
+      "age": 26
+    },
+    {
+      "id": 2,
+      "name": "Glen",
+      "email": "glen@gmail.com",
+      "age": 29
+    },
+    {
+      "id": 3,
+      "name": "Kiran",
+      "email": "kiran@gmail.com",
+      "age": 31
+    },
+    {
+      "id": 4,
+      "name": "Jerry",
+      "email": "jerry@gmail.com",
+      "age": 30
+    }
+  ]
+}
