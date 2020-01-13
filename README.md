@@ -27,7 +27,7 @@ You will also see any lint errors in the console.
 ### `npm install -g json-server`
 
 Install JSON Server -> npm install -g json-server <br />
-Start JSON Server -> json-server --watch users.json
+Start JSON Server ->  ###json-server --watch users.json
 
 
 ### `npm test`
