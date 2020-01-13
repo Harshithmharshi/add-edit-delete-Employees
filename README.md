@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### EmployeeManagement <br/>
+
+An React web application to manage employees.
+
+Framework - React JS
+
+Following things to do in UI Create a page to list the employees with the detail of department. Create a page to edit/add/delete employee. Create a page to edit/add/delete Department.
+
+Table Structure
+
+Employee Table --> Id --> First Name --> Last Name --> Age --> Email <br/>
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -12,10 +24,17 @@ Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+### `npm install -g json-server`
+
+Install JSON Server -> npm install -g json-server <br />
+Start JSON Server -> json-server --watch users.json
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
 
 ### `npm run build`
 
